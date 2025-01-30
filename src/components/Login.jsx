@@ -35,7 +35,7 @@ const Login = () => {
             required
             className="input-field"
           />
-          <button type="submit" className="submit-button">Login</button>
+          <button type="submit" className="submit-button">login with gurpreet sakshi sarangal</button>
         </form>
         <p className="signup-link">
           Don't have an account? <a href="/signup">Sign up</a>
